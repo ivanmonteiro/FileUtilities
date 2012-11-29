@@ -1,0 +1,1 @@
+FileUtilities currently allows to get a list of repeated files and extract common keywords from file names. It was built using C# 4.0 and WPF.
